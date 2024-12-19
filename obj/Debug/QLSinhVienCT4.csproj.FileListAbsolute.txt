@@ -1,0 +1,16 @@
+D:\2280601122_BuiAnhHuy\QLSinhVienCT4\QLSinhVienCT4\bin\Debug\QLSinhVienCT4.exe.config
+D:\2280601122_BuiAnhHuy\QLSinhVienCT4\QLSinhVienCT4\bin\Debug\QLSinhVienCT4.exe
+D:\2280601122_BuiAnhHuy\QLSinhVienCT4\QLSinhVienCT4\bin\Debug\QLSinhVienCT4.pdb
+D:\2280601122_BuiAnhHuy\QLSinhVienCT4\QLSinhVienCT4\bin\Debug\EntityFramework.dll
+D:\2280601122_BuiAnhHuy\QLSinhVienCT4\QLSinhVienCT4\bin\Debug\EntityFramework.SqlServer.dll
+D:\2280601122_BuiAnhHuy\QLSinhVienCT4\QLSinhVienCT4\bin\Debug\EntityFramework.xml
+D:\2280601122_BuiAnhHuy\QLSinhVienCT4\QLSinhVienCT4\bin\Debug\EntityFramework.SqlServer.xml
+D:\2280601122_BuiAnhHuy\QLSinhVienCT4\QLSinhVienCT4\obj\Debug\QLSinhVienCT4.csproj.AssemblyReference.cache
+D:\2280601122_BuiAnhHuy\QLSinhVienCT4\QLSinhVienCT4\obj\Debug\QLSinhVienCT4.Form1.resources
+D:\2280601122_BuiAnhHuy\QLSinhVienCT4\QLSinhVienCT4\obj\Debug\QLSinhVienCT4.Properties.Resources.resources
+D:\2280601122_BuiAnhHuy\QLSinhVienCT4\QLSinhVienCT4\obj\Debug\QLSinhVienCT4.csproj.GenerateResource.cache
+D:\2280601122_BuiAnhHuy\QLSinhVienCT4\QLSinhVienCT4\obj\Debug\QLSinhVienCT4.csproj.CoreCompileInputs.cache
+D:\2280601122_BuiAnhHuy\QLSinhVienCT4\QLSinhVienCT4\obj\Debug\QLSinhVi.55BBBE08.Up2Date
+D:\2280601122_BuiAnhHuy\QLSinhVienCT4\QLSinhVienCT4\obj\Debug\QLSinhVienCT4.exe
+D:\2280601122_BuiAnhHuy\QLSinhVienCT4\QLSinhVienCT4\obj\Debug\QLSinhVienCT4.pdb
+D:\2280601122_BuiAnhHuy\QLSinhVienCT4\QLSinhVienCT4\obj\Debug\QLSinhVienCT4.Form2.resources
